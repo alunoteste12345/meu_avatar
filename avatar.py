@@ -9,4 +9,5 @@ img.save(outpath, filename)
 img.change('new input', pagan.SHA256)
 img.change('new input', pagan.SHA224)
 img.change('new input', pagan.SHA384)
+img.change('new input', pagan.MD5)
 
