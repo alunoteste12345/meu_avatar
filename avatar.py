@@ -7,3 +7,6 @@ outpath = 'output/'
 filename = inpt
 img.save(outpath, filename)
 img.change('new input', pagan.SHA256)
+img.change('new input', pagan.SHA224)
+img.change('new input', pagan.SHA384)
+
