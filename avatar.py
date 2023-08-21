@@ -1,3 +1,4 @@
+#criando avatar utilizando pagan
 from fileinput import filename
 import pagan
 inpt = 'Python Developer'
@@ -7,4 +8,4 @@ outpath = 'output/'
 filename = inpt
 img.save(outpath, filename)
 img.change('new input', pagan.SHA256)
-#criando avatar utilizando pagan
+
