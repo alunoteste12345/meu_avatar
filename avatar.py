@@ -7,3 +7,4 @@ outpath = 'output/'
 filename = inpt
 img.save(outpath, filename)
 img.change('new input', pagan.SHA256)
+#criando avatar utilizando pagan
